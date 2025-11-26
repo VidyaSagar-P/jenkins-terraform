@@ -19,4 +19,3 @@ yum install jenkins -y
 systemctl daemon-reload
 systemctl enable jenkins
 systemctl start jenkins
-
